@@ -33,7 +33,7 @@
             <ul>
               <li><a href="/">Home</a></li>
               <li><a href="/paint" target="_blank">Canvas</a></li>
-              <li><a href="https://github.com/laravel/laravel" target="_blank">Github</a></li>
+              <li><a href="https://github.com/L-min/mylara_practice" target="_blank">Github</a></li>
             </ul>
           </div>
       </div>
